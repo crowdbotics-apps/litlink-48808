@@ -66,6 +66,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [django-disqus](backend/modules)
 - [terms-and-conditions]()
 - [faq]()
+- [react-native-image-gallery](modules/image-gallery)
 
 # Getting started: Frontend
 
