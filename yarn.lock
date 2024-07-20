@@ -2544,7 +2544,7 @@
     react-native-qrcode-svg "6.1.2"
     react-native-svg "12.3.0"
 
-"@modules/articles@file:./modules/articles/":
+"@modules/articles@file:./modules/articles":
   version "1.0.0"
 
 "@modules/faq@file:./modules/faq":
