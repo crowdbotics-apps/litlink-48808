@@ -75,6 +75,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-zoom-free-calling](modules/zoom-free-calling)
 - [django-articles](backend/modules)
 - [react-native-articles](modules/articles)
+- [react-native-terms-and-conditions-webview](modules/terms-and-conditions-webview)
 
 # Getting started: Frontend
 
