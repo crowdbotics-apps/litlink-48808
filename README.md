@@ -76,6 +76,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [django-articles](backend/modules)
 - [react-native-articles](modules/articles)
 - [react-native-terms-and-conditions-webview](modules/terms-and-conditions-webview)
+- [react-native-address-selection-google-autocomplete](modules/address-selection-autocomplete)
 
 # Getting started: Frontend
 
